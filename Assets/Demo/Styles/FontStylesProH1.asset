@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 697ad0563755df84ba9cb5f711db8385, type: 3}
+  m_Name: FontStylesProH1
+  m_EditorClassIdentifier: 
+  FontStyleName: ProH1
+  Default:
+    Font: {fileID: 11400000, guid: a356454eb640d8e4188e23ba8125ffcd, type: 2}
+    FontStyle: 0
+    Size: 60
+    CaseFormat: 1
+    LetterSpacing: 0
+    LineSpacing: 1
+  Alternatives:
+  - Font: {fileID: 11400000, guid: 745da92c037e1d74fa8c961672ceb59d, type: 2}
+    FontStyle: 0
+    Size: 60
+    CaseFormat: 1
+    LetterSpacing: 0
+    LineSpacing: 1
+    Language: ru
+  - Font: {fileID: 11400000, guid: ac006cab10b4ed0438a6ceebea91b810, type: 2}
+    FontStyle: 0
+    Size: 60
+    CaseFormat: 1
+    LetterSpacing: 0
+    LineSpacing: 1
+    Language: ja
+  - Font: {fileID: 11400000, guid: 14b8cee3fb2e9b24a8fa52a92db8fb31, type: 2}
+    FontStyle: 0
+    Size: 60
+    CaseFormat: 1
+    LetterSpacing: 0
+    LineSpacing: 1
+    Language: vi
+  - Font: {fileID: 11400000, guid: 27429fac3ca17e244a58e944f592832c, type: 2}
+    FontStyle: 0
+    Size: 60
+    CaseFormat: 1
+    LetterSpacing: 0
+    LineSpacing: 1
+    Language: ko
+  - Font: {fileID: 11400000, guid: 9036c1737c1aa824180f848b1125bd05, type: 2}
+    FontStyle: 0
+    Size: 60
+    CaseFormat: 1
+    LetterSpacing: 0
+    LineSpacing: 1
+    Language: zh-cn
+  - Font: {fileID: 11400000, guid: 3017fecfde0eb4a4dbfd3ec41fa6d13d, type: 2}
+    FontStyle: 0
+    Size: 60
+    CaseFormat: 1
+    LetterSpacing: 0
+    LineSpacing: 1
+    Language: zh-tw
